@@ -1,0 +1,29 @@
+{
+    "name": "@kelsny/triangulate",
+    "description": "Really shitty polygon triangulation.",
+    "version": "1.0.0",
+    "scripts": {
+        "watch": "tsc -w",
+        "build": "webpack",
+        "dev": "webpack --watch"
+    },
+    "devDependencies": {
+        "ts-loader": "^9.3.0",
+        "typescript": "^4.6.4",
+        "webpack": "^5.72.0",
+        "webpack-cli": "^4.9.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kelsny/triangulate.git"
+    },
+    "keywords": [],
+    "author": "kelsny <cursors.owo.uwu@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kelsny/triangulate/issues"
+    },
+    "homepage": "https://github.com/kelsny/triangulate#readme",
+    "main": "webpack.config.js",
+    "dependencies": {}
+}
